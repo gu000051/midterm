@@ -65,7 +65,7 @@ body{
 /* centered text */
 .centered{
 	position: absolute;
-	top: 35%;
+	top: 30%;
 	left: 58%;
 	transform: translate(-80%, -80%);
     color: white; font-size: 60px;  font-family: Arial, Helvetica, sans-serif;

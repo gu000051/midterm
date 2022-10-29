@@ -80,7 +80,7 @@ nav li{
 }
   
 nav li:last-child{
-	border-right: none; margin-right: -25px;
+	border-right: none; margin-right: -40px;
 }
 
 /* main part */
